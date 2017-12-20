@@ -71,6 +71,16 @@
             "title": "Ruby"
         },
         {
+            "location": "/testing/ruby/",
+            "text": "Ruby\n\n\n\n\nRspec's materials (better have an uniform style to make code review easier)",
+            "title": "Ruby"
+        },
+        {
+            "location": "/testing/ruby/#ruby",
+            "text": "Rspec's materials (better have an uniform style to make code review easier)",
+            "title": "Ruby"
+        },
+        {
             "location": "/security/",
             "text": "Security\n\n\n\n\nShould have some kind of guideline, at least to refer to when something occurs",
             "title": "Security"
