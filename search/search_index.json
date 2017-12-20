@@ -31,6 +31,26 @@
             "title": "Ruby on Rails"
         },
         {
+            "location": "/code_review/",
+            "text": "Code review\n\n\nhttps://github.com/thoughtbot/guides/tree/master/code-review\n- How to write review comments that are easy to understand\n- How to read and respond to review comments",
+            "title": "Code Review"
+        },
+        {
+            "location": "/code_review/#code-review",
+            "text": "https://github.com/thoughtbot/guides/tree/master/code-review\n- How to write review comments that are easy to understand\n- How to read and respond to review comments",
+            "title": "Code review"
+        },
+        {
+            "location": "/teamwork/",
+            "text": "Teamwork\n\n\n\n\nShould have some kind of guideline",
+            "title": "Teamwork"
+        },
+        {
+            "location": "/teamwork/#teamwork",
+            "text": "Should have some kind of guideline",
+            "title": "Teamwork"
+        },
+        {
             "location": "/style/ruby/",
             "text": "Ruby\n\n\n\n\nRubocop rules with explanation\n\n\nThe best is that code reviewers don't need review style anymore\naoeu\n\n\n\n\nRails",
             "title": "Ruby"
