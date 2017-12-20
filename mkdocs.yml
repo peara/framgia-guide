@@ -1,0 +1,17 @@
+site_name: Framgia Dev Guide
+theme: cinder
+pages:
+  - Home: index.md
+  - Setup:
+    - Ruby: setup/ruby.md
+  - Code Review: code_review/index.md
+  - Teamwork: teamwork/index.md
+  - Style:
+    - Ruby: style/ruby.md
+  - Best Practices:
+    - Ruby: best_practices/ruby.md
+  - Testing:
+    - Ruby: testing/ruby.md
+  - Security: security/index.md
+  - Deploy:
+    - Ruby: deploy/ruby.md
