@@ -1,5 +1,6 @@
 site_name: Framgia Dev Guide
-theme: cinder
+theme:
+  name: 'material'
 pages:
   - Home: index.md
   - Setup:
