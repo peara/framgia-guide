@@ -1,0 +1,74 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Framgia Dev Guide\n\n\nGuide n\u00e0y \u0111\u01b0\u1ee3c vi\u1ebft \u0111\u1ec3 \u0111\u1ed3ng b\u1ed9 ti\u00eau chu\u1ea9n trong qu\u00e1 tr\u00ecnh ph\u00e1t tri\u1ec3n.\nT\u00f9y t\u1eebng d\u1ef1 \u00e1n m\u00e0 c\u00f3 th\u1ec3 \u0111c \u00e1p d\u1ee5ng v\u1edbi c\u00e1c m\u1ee9c \u0111\u1ed9 kh\u00e1c nhau.\nNgo\u00e0i ra \u0111\u00e2y c\u0169ng l\u00e0 m\u1ed9t ti\u00eau chu\u1ea9n \u0111\u1ec3 x\u1eed l\u00fd trong c\u00e1c tr\u01b0\u1eddng h\u1ee3p c\u00f3 \u00fd ki\u1ebfn b\u1ea5t \u0111\u1ed3ng.\n\n\n\n\nSetting up environments\n\n\nRuby\n\n\n\n\n\n\nCoding style\n\n\nRuby\n\n\n\n\n\n\nCode review\n\n\nTeamwork\n\n\nBest practices\n\n\nRuby\n\n\n\n\n\n\nTesting\n\n\nRuby\n\n\n\n\n\n\nSecurity\n\n\nDeploy\n\n\nRuby\n\n\n\n\n\n\n\n\nReferences\n\n\nhttps://github.com/framgia/coding-standards\n\n\nhttps://github.com/thoughtbot/guides\n\n\nContributors",
+            "title": "Home"
+        },
+        {
+            "location": "/#framgia-dev-guide",
+            "text": "Guide n\u00e0y \u0111\u01b0\u1ee3c vi\u1ebft \u0111\u1ec3 \u0111\u1ed3ng b\u1ed9 ti\u00eau chu\u1ea9n trong qu\u00e1 tr\u00ecnh ph\u00e1t tri\u1ec3n.\nT\u00f9y t\u1eebng d\u1ef1 \u00e1n m\u00e0 c\u00f3 th\u1ec3 \u0111c \u00e1p d\u1ee5ng v\u1edbi c\u00e1c m\u1ee9c \u0111\u1ed9 kh\u00e1c nhau.\nNgo\u00e0i ra \u0111\u00e2y c\u0169ng l\u00e0 m\u1ed9t ti\u00eau chu\u1ea9n \u0111\u1ec3 x\u1eed l\u00fd trong c\u00e1c tr\u01b0\u1eddng h\u1ee3p c\u00f3 \u00fd ki\u1ebfn b\u1ea5t \u0111\u1ed3ng.   Setting up environments  Ruby    Coding style  Ruby    Code review  Teamwork  Best practices  Ruby    Testing  Ruby    Security  Deploy  Ruby",
+            "title": "Framgia Dev Guide"
+        },
+        {
+            "location": "/#references",
+            "text": "https://github.com/framgia/coding-standards  https://github.com/thoughtbot/guides",
+            "title": "References"
+        },
+        {
+            "location": "/#contributors",
+            "text": "",
+            "title": "Contributors"
+        },
+        {
+            "location": "/setup/ruby/",
+            "text": "Ruby on Rails\n\n\n\n\nRuby, Rails, dockers, etc. installation script for faster setup.\n  Should have explanation so new devs know what will be used.",
+            "title": "Ruby"
+        },
+        {
+            "location": "/setup/ruby/#ruby-on-rails",
+            "text": "Ruby, Rails, dockers, etc. installation script for faster setup.\n  Should have explanation so new devs know what will be used.",
+            "title": "Ruby on Rails"
+        },
+        {
+            "location": "/style/ruby/",
+            "text": "Ruby\n\n\n\n\nRubocop rules with explanation\n\n\nThe best is that code reviewers don't need review style anymore\naoeu\n\n\n\n\nRails",
+            "title": "Ruby"
+        },
+        {
+            "location": "/style/ruby/#ruby",
+            "text": "Rubocop rules with explanation  The best is that code reviewers don't need review style anymore\naoeu",
+            "title": "Ruby"
+        },
+        {
+            "location": "/style/ruby/#rails",
+            "text": "",
+            "title": "Rails"
+        },
+        {
+            "location": "/best_practices/ruby/",
+            "text": "Guide to gems\n\n\nSuggested Rails's materials\n\n\nRecommended Ruby's materials (maybe Ruby Silver Certificate?)\n  This could be our Ruby and Rails curriculum",
+            "title": "Ruby"
+        },
+        {
+            "location": "/security/",
+            "text": "Security\n\n\n\n\nShould have some kind of guideline, at least to refer to when something occurs",
+            "title": "Security"
+        },
+        {
+            "location": "/security/#security",
+            "text": "Should have some kind of guideline, at least to refer to when something occurs",
+            "title": "Security"
+        },
+        {
+            "location": "/deploy/ruby/",
+            "text": "Ruby on Rails\n\n\n\n\nExplanation for server deployment and scripts\n\n\nWhat should be take care of when deploy",
+            "title": "Ruby"
+        },
+        {
+            "location": "/deploy/ruby/#ruby-on-rails",
+            "text": "Explanation for server deployment and scripts  What should be take care of when deploy",
+            "title": "Ruby on Rails"
+        }
+    ]
+}
